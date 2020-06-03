@@ -1,5 +1,5 @@
 # Vue Router Basics
-Première utilisation de vue router. j'utilise cette bibliothèque pour créer ma première SPA(Single Page Application). Elle permet de basculer entre les pages sans rafraîchissement de page, ce qui rend la navigation agréable et simple.
+Première utilisation de vue router. j'utilise cette bibliothèque pour créer ma première SPA(Single Page Application). Elle permet de basculer entre les pages sans rafraîchissement de la page, ce qui rend la navigation agréable et simple.
 
 ## Project setup
 ```
